@@ -1,5 +1,4 @@
 add: Register a change in an index
-<<<<<<< HEAD
 add from Branch issue2
 add from Branch issue3
 add from Branch issue22
